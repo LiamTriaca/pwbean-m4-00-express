@@ -1,0 +1,23 @@
+{
+  "name": "pwbean-m4-00-express",
+  "version": "2.0.0",
+  "description": "Servidos web hecho con Express(\"\"y garra\"\")",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiamTriaca/pwbean-m4-00-express.git"
+  },
+  "author": "Liam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LiamTriaca/pwbean-m4-00-express/issues"
+  },
+  "homepage": "https://github.com/LiamTriaca/pwbean-m4-00-express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.2"
+  }
+}
